@@ -1,0 +1,197 @@
+=> 
+[[32m#<Product:0x00007f91d25643a0[0m
+  id: [34m[1m1[0m,
+  title: [31m[1m"[0m[31mIncredible Copper Pants[0m[31m[1m"[0m,
+  description:
+   [31m[1m"[0m[31mSimilique itaque laudantium. Atque quo et. Esse aut at.[0m[31m[1m"[0m,
+  price: [35m[1m0.46196e3[0m,
+  stock_quantity: [34m[1m70[0m,
+  created_at:
+   Mon, 17 Jun 2024 18:50:41.535471000 UTC +00:00,
+  updated_at:
+   Mon, 17 Jun 2024 18:50:41.535471000 UTC +00:00[32m>[0m,
+ [32m#<Product:0x00007f91d193b560[0m
+  id: [34m[1m2[0m,
+  title: [31m[1m"[0m[31mLightweight Iron Plate[0m[31m[1m"[0m,
+  description:
+   [31m[1m"[0m[31mVoluptatum perspiciatis maiores. Rerum aut iusto. Eos culpa dignissimos.[0m[31m[1m"[0m,
+  price: [35m[1m0.30289e3[0m,
+  stock_quantity: [34m[1m12[0m,
+  created_at:
+   Mon, 17 Jun 2024 18:50:41.552068000 UTC +00:00,
+  updated_at:
+   Mon, 17 Jun 2024 18:50:41.552068000 UTC +00:00[32m>[0m,
+ [32m#<Product:0x00007f91d193b2e0[0m
+  id: [34m[1m3[0m,
+  title: [31m[1m"[0m[31mPractical Wool Coat[0m[31m[1m"[0m,
+  description:
+   [31m[1m"[0m[31mAccusantium nesciunt aut. Sapiente alias debitis. Soluta aut ut.[0m[31m[1m"[0m,
+  price: [35m[1m0.719e2[0m,
+  stock_quantity: [34m[1m62[0m,
+  created_at:
+   Mon, 17 Jun 2024 18:50:41.555807000 UTC +00:00,
+  updated_at:
+   Mon, 17 Jun 2024 18:50:41.555807000 UTC +00:00[32m>[0m,
+ [32m#<Product:0x00007f91d193b1a0[0m
+  id: [34m[1m4[0m,
+  title: [31m[1m"[0m[31mMediocre Iron Shoes[0m[31m[1m"[0m,
+  description:
+   [31m[1m"[0m[31mArchitecto aut nihil. Veritatis libero sapiente. Reiciendis unde qui.[0m[31m[1m"[0m,
+  price: [35m[1m0.50675e3[0m,
+  stock_quantity: [34m[1m76[0m,
+  created_at:
+   Mon, 17 Jun 2024 18:50:41.559979000 UTC +00:00,
+  updated_at:
+   Mon, 17 Jun 2024 18:50:41.559979000 UTC +00:00[32m>[0m,
+ [32m#<Product:0x00007f91d193b060[0m
+  id: [34m[1m5[0m,
+  title: [31m[1m"[0m[31mHeavy Duty Bronze Wallet[0m[31m[1m"[0m,
+  description:
+   [31m[1m"[0m[31mRecusandae laboriosam iusto. Iusto totam officiis. Vel deleniti sit.[0m[31m[1m"[0m,
+  price: [35m[1m0.14218e3[0m,
+  stock_quantity: [34m[1m74[0m,
+  created_at:
+   Mon, 17 Jun 2024 18:50:41.564686000 UTC +00:00,
+  updated_at:
+   Mon, 17 Jun 2024 18:50:41.564686000 UTC +00:00[32m>[0m,
+ [32m#<Product:0x00007f91d193af20[0m
+  id: [34m[1m6[0m,
+  title: [31m[1m"[0m[31mPractical Wool Clock[0m[31m[1m"[0m,
+  description:
+   [31m[1m"[0m[31mInventore maiores quasi. Temporibus non enim. Suscipit nemo reprehenderit.[0m[31m[1m"[0m,
+  price: [35m[1m0.25427e3[0m,
+  stock_quantity: [34m[1m77[0m,
+  created_at:
+   Mon, 17 Jun 2024 18:50:41.568764000 UTC +00:00,
+  updated_at:
+   Mon, 17 Jun 2024 18:50:41.568764000 UTC +00:00[32m>[0m,
+ [32m#<Product:0x00007f91d193ade0[0m
+  id: [34m[1m7[0m,
+  title: [31m[1m"[0m[31mSynergistic Wool Car[0m[31m[1m"[0m,
+  description:
+   [31m[1m"[0m[31mTempore aut rem. Consequatur sunt autem. Omnis vero necessitatibus.[0m[31m[1m"[0m,
+  price: [35m[1m0.49009e3[0m,
+  stock_quantity: [34m[1m20[0m,
+  created_at:
+   Mon, 17 Jun 2024 18:50:41.572854000 UTC +00:00,
+  updated_at:
+   Mon, 17 Jun 2024 18:50:41.572854000 UTC +00:00[32m>[0m,
+ [32m#<Product:0x00007f91d193ab60[0m
+  id: [34m[1m8[0m,
+  title: [31m[1m"[0m[31mFantastic Plastic Lamp[0m[31m[1m"[0m,
+  description:
+   [31m[1m"[0m[31mQuam voluptas et. Expedita iure esse. Voluptates aperiam voluptatibus.[0m[31m[1m"[0m,
+  price: [35m[1m0.71609e3[0m,
+  stock_quantity: [34m[1m100[0m,
+  created_at:
+   Mon, 17 Jun 2024 18:50:41.575926000 UTC +00:00,
+  updated_at:
+   Mon, 17 Jun 2024 18:50:41.575926000 UTC +00:00[32m>[0m,
+ [32m#<Product:0x00007f91d193aa20[0m
+  id: [34m[1m9[0m,
+  title: [31m[1m"[0m[31mDurable Marble Shirt[0m[31m[1m"[0m,
+  description:
+   [31m[1m"[0m[31mEos delectus ipsa. Aut nemo veniam. Dolores ut minus.[0m[31m[1m"[0m,
+  price: [35m[1m0.21623e3[0m,
+  stock_quantity: [34m[1m69[0m,
+  created_at:
+   Mon, 17 Jun 2024 18:50:41.578480000 UTC +00:00,
+  updated_at:
+   Mon, 17 Jun 2024 18:50:41.578480000 UTC +00:00[32m>[0m,
+ [32m#<Product:0x00007f91d193a8e0[0m
+  id: [34m[1m10[0m,
+  title: [31m[1m"[0m[31mEnormous Wool Lamp[0m[31m[1m"[0m,
+  description:
+   [31m[1m"[0m[31mEt et nisi. Et minus voluptatem. Harum ea labore.[0m[31m[1m"[0m,
+  price: [35m[1m0.29011e3[0m,
+  stock_quantity: [34m[1m44[0m,
+  created_at:
+   Mon, 17 Jun 2024 18:50:41.580899000 UTC +00:00,
+  updated_at:
+   Mon, 17 Jun 2024 18:50:41.580899000 UTC +00:00[32m>[0m,
+ [32m#<Product:0x00007f91d193a7a0[0m
+  id: [34m[1m11[0m,
+  title: [31m[1m"[0m[31mEnormous Silk Pants[0m[31m[1m"[0m,
+  description:
+   [31m[1m"[0m[31mVoluptas aliquam quo. Repellat dolorum id. Eligendi dolor corporis.[0m[31m[1m"[0m,
+  price: [35m[1m0.26113e3[0m,
+  stock_quantity: [34m[1m50[0m,
+  created_at:
+   Mon, 17 Jun 2024 18:50:41.583678000 UTC +00:00,
+  updated_at:
+   Mon, 17 Jun 2024 18:50:41.583678000 UTC +00:00[32m>[0m,
+ [32m#<Product:0x00007f91d193a660[0m
+  id: [34m[1m12[0m,
+  title: [31m[1m"[0m[31mIncredible Rubber Clock[0m[31m[1m"[0m,
+  description:
+   [31m[1m"[0m[31mLibero suscipit et. Consequatur aliquam adipisci. Ratione repellendus optio.[0m[31m[1m"[0m,
+  price: [35m[1m0.65957e3[0m,
+  stock_quantity: [34m[1m7[0m,
+  created_at:
+   Mon, 17 Jun 2024 18:50:41.588456000 UTC +00:00,
+  updated_at:
+   Mon, 17 Jun 2024 18:50:41.588456000 UTC +00:00[32m>[0m,
+ [32m#<Product:0x00007f91d193a3e0[0m
+  id: [34m[1m13[0m,
+  title: [31m[1m"[0m[31mIncredible Wool Gloves[0m[31m[1m"[0m,
+  description:
+   [31m[1m"[0m[31mEt omnis id. Dignissimos blanditiis officiis. Possimus quam dolores.[0m[31m[1m"[0m,
+  price: [35m[1m0.49781e3[0m,
+  stock_quantity: [34m[1m19[0m,
+  created_at:
+   Mon, 17 Jun 2024 18:50:41.591896000 UTC +00:00,
+  updated_at:
+   Mon, 17 Jun 2024 18:50:41.591896000 UTC +00:00[32m>[0m,
+ [32m#<Product:0x00007f91d193a2a0[0m
+  id: [34m[1m14[0m,
+  title: [31m[1m"[0m[31mSynergistic Iron Bench[0m[31m[1m"[0m,
+  description:
+   [31m[1m"[0m[31mNesciunt illo rem. Corrupti reiciendis sed. Non earum sit.[0m[31m[1m"[0m,
+  price: [35m[1m0.47922e3[0m,
+  stock_quantity: [34m[1m36[0m,
+  created_at:
+   Mon, 17 Jun 2024 18:50:41.595328000 UTC +00:00,
+  updated_at:
+   Mon, 17 Jun 2024 18:50:41.595328000 UTC +00:00[32m>[0m,
+ [32m#<Product:0x00007f91d193a160[0m
+  id: [34m[1m15[0m,
+  title: [31m[1m"[0m[31mAerodynamic Rubber Hat[0m[31m[1m"[0m,
+  description:
+   [31m[1m"[0m[31mOdio alias qui. Inventore nam ducimus. Rerum unde quas.[0m[31m[1m"[0m,
+  price: [35m[1m0.23375e3[0m,
+  stock_quantity: [34m[1m48[0m,
+  created_at:
+   Mon, 17 Jun 2024 18:50:41.598362000 UTC +00:00,
+  updated_at:
+   Mon, 17 Jun 2024 18:50:41.598362000 UTC +00:00[32m>[0m,
+ [32m#<Product:0x00007f91d193a020[0m
+  id: [34m[1m16[0m,
+  title: [31m[1m"[0m[31mIntelligent Silk Car[0m[31m[1m"[0m,
+  description:
+   [31m[1m"[0m[31mNemo aperiam sed. Et perspiciatis assumenda. Repellendus dolor ipsa.[0m[31m[1m"[0m,
+  price: [35m[1m0.73834e3[0m,
+  stock_quantity: [34m[1m21[0m,
+  created_at:
+   Mon, 17 Jun 2024 18:50:41.602209000 UTC +00:00,
+  updated_at:
+   Mon, 17 Jun 2024 18:50:41.602209000 UTC +00:00[32m>[0m,
+ [32m#<Product:0x00007f91d1939ee0[0m
+  id: [34m[1m17[0m,
+  title: [31m[1m"[0m[31mSleek Concrete Watch[0m[31m[1m"[0m,
+  description:
+   [31m[1m"[0m[31mMaiores quaerat deleniti. Et illum minus. Voluptas culpa non.[0m[31m[1m"[0m,
+  price: [35m[1m0.90482e3[0m,
+  stock_quantity: [34m[1m61[0m,
+  created_at:
+   Mon, 17 Jun 2024 18:50:41.606418000 UTC +00:00,
+  updated_at:
+   Mon, 17 Jun 2024 18:50:41.606418000 UTC +00:00[32m>[0m,
+ [32m#<Product:0x00007f91d1939c60[0m
+  id: [34m[1m18[0m,
+  title: [31m[1m"[0m[31mIncredible Marble Shirt[0m[31m[1m"[0m,
+  description:
+   [31m[1m"[0m[31mAt quos non. Doloremque odio et. Corporis veniam excepturi.[0m[31m[1m"[0m,
+  price: [35m[1m0.3041e3[0m,
+  stock_quantity: [34m[1m4[0m,
+  created_at:
+   Mon, 17 Jun 2024 18:50:41.609330000 UTC +00

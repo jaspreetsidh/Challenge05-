@@ -1,11 +1,15 @@
 # db/seeds.rb
-require 'faker'
+require 'csv'
 
-676.times do
-  Product.create(
-    title: Faker::Commerce.product_name,
-    description: Faker::Lorem.paragraph,
-    price: Faker::Commerce.price(range: 0..1000.0),
-    stock_quantity: Faker::Number.between(from: 1, to: 100)
+CSV.foreach(Rails.root.join('db', 'products.csv'), headers: true) do |row|
+  category_name = row['Category']
+  category = Category.find_or_create_by(name: category_name)
+
+  Product.create!(
+    title: row['Title'],
+    description: row['Description'],
+    price: row['Price'],
+    stock_quantity: row['Stock quantity'],
+    category: category
   )
 end
